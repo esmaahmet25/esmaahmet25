@@ -29,13 +29,18 @@
 
 ---
 
-## 🚀 Tools & Technologies I Use
+## 💻 Tools & Technologies I Use 
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-FCC624?style=flat&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-0078D4?style=flat&logo=visual-studio-code&logoColor=blue)
+![ChatGpt](https://img.shields.io/badge/ChatGpt-000000?style=flat&logo=visual-studio-code&logoColor=gray)
+
+
+
 
 ---
 
@@ -56,31 +61,14 @@ const myTools = {
 
 - <img src="https://raw.githubusercontent.com/esmaahmet25/test1/main/letterbox.gif" width="25" /> &nbsp; Find me on Linkedin: **[Asmao Ahmat](https://www.linkedin.com/in/asmao-ahmat/)**<br>
 
-<div align="center" >
-<a  href="https://github.com/esmaahmet25">
 
-<img src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=esmaahmet25&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=esmaahmet25&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esmaahmet25&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+---
+[![](https://visitcount.itsvg.in/api?id=esmaahmet25&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
