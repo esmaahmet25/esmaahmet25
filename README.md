@@ -1,16 +1,86 @@
-## Hi there 👋
+<div align="center" width="50">
 
-<!--
-**esmaahmet25/esmaahmet25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/esmaahmet25/test1/blob/408cc08c825e5fc7c452702ab69f3fe10c2b92e3/hello" alt="Hello Coders" width="60%"/><br>
+<img src="https://raw.githubusercontent.com/esmaahmet25/test1/main/coding-girl.gif" alt="Girl Coding" width="40%"/><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<p><strong><summary> Busy coding & learning 🎧 </summary></strong></p>
+
+🎵 I enjoy listening to motivational, English, and Islamic nasheed while coding.
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=esmaahmed25&style=flat&color=orange)
+
+
+</div>
+
+<hr>
+
+## 👩‍💻 About Me
+
+- 🎓 **Computer Science student**
+- 🐍 Passionate about **Python** and **AI**
+- 🤖 Interested in **AI assistants, automation, and real-world problem solving**
+- 🚀 Finished CS50 Python and leveled up my programming fundamentals with real projects and challenges. 🐍✨
+- 🌱 Currently learning **Python (freeCodeCamp)**, **Git/GitHub**, and **Front-end development**
+- 🌍 Based in **Egypt**
+
+---
+
+## 🚀 Tools & Technologies I Use
+
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+```python
+# tools_I_use organized
+
+class AboutMe:{
+const myTools = { 
+    programming_languages = ["Python"]
+    tools = ["Git", "GitHub", "VS Code"]
+    platforms = ["Windows"]
+
+    def goal(self):
+        return "Build useful AI-powered applications 🚀"
+ };
+}
+```
+
+- <img src="https://raw.githubusercontent.com/esmaahmet25/test1/main/letterbox.gif" width="25" /> &nbsp; Find me on Linkedin: **[Asmao Ahmat](https://www.linkedin.com/in/asmao-ahmat/)**<br>
+
+<div align="center" >
+<a  href="https://github.com/esmaahmet25">
+
+<img src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/esmaahmet25/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+</div>
+
