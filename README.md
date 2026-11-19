@@ -7,7 +7,7 @@
 <details>
 <p><strong><summary> Busy coding & learning 🎧 </summary></strong></p>
 
-🎵 I enjoy listening to motivational, English, and Islamic nasheed while coding.
+🎵 I enjoy listening to motivational, English, and Islamic nasheed and lectures while coding.
 
 </details>
 
@@ -23,9 +23,10 @@
 - 🎓 **Computer Science student**
 - 🐍 Passionate about **Python** and **AI**
 - 🤖 Interested in **AI assistants, automation, and real-world problem solving**
-- 🚀 Finished CS50 Python and leveled up my programming fundamentals with real projects and challenges. 🐍✨
-- 🌱 Currently learning **Python (freeCodeCamp)**, **Git/GitHub**, and **Front-end development**
-- 🌍 Based in **Egypt**
+- 🚀 Finished **CS50 Introduction to Python**, **Python (freeCodeCamp)**, **SQLite (Coddy Tech)**
+  and leveled up my programming fundamentals with real projects and challenges . 🐍✨
+- 🌱 Currently starting my first real project. 
+- 🌍 **Chadian** born in **Saudi Arabia** but based in **Egypt**
 
 ---
 
